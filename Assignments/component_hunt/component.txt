@@ -1,0 +1,14 @@
+/* Amazon */
+- Navbar
+  - Logo | Search | Account | Cart
+- Hero Section
+  - Carousel
+- Main Content
+  - Sidebar (Filters)
+  - Product Grid
+    - Product Card 1
+    - Product Card 2
+    - ...
+- Footer
+  - Links
+  - Social icons

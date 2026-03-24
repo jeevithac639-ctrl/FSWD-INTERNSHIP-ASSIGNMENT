@@ -1,0 +1,15 @@
+/* style.css */
+#myForm {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 2rem;
+}
+
+#message {
+    color: green;
+}
+
+.error {
+    color: red;
+}
